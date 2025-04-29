@@ -348,14 +348,14 @@
     "mapName": "Red Legend",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bgroommaps/redlegend.zip",
     "mapSpawnPos": "-3 122 -757"
-  }
+  },
   {
     "mapId": "m1107",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/romangarrison.png",
     "mapName": "Roman Garrison",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bgroommaps/romangarrison.zip",
     "mapSpawnPos": "5 20 8"
-  }
+  },
   {
     "mapId": "m1108",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/flatworld.png",
