@@ -22,31 +22,39 @@
   },
   {
     "mapId": "m1008_1",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/sandstone.png",
     "mapName": "Bed Wars: Sandstone Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "459 52 57"
   },
   {
     "mapId": "m1008_2",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/city.png",
     "mapName": "Bed Wars: City Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "884 56 85"
   },
   {
     "mapId": "m1008_3",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/blossom.png",
     "mapName": "Bed Wars: Blossom Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "1299 48 90"
   },
   {
-    "mapId": "m1065",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
-    "mapName": "Bed Wars: 10v10 mode.",
+    "mapId": "m1008_4",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/chinatown.png",
+    "mapName": "Bed Wars: Chinatown Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
-    "mapSpawnPos": "47 107 4603"
+    "mapSpawnPos": "1662 105 59"
+  },
+
+  {
+    "mapId": "m1008_5",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars: Pirate Ship Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "2222 81 123"
   },
   {
     "mapId": "m1009",
