@@ -24,8 +24,8 @@
     "mapId": "m1008_1",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars: Classic 1",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1008_1.zip",
-    "mapSpawnPos": "1762 82 -547"
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bedwars1.zip",
+    "mapSpawnPos": "1701 94 -573"
   },
   {
     "mapId": "m1008_2",
