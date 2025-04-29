@@ -10,14 +10,14 @@
     "mapId": "m1002_1",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Sky Wars 1",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1002_1.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/synkaiwars.zip",
     "mapSpawnPos": "1881 81 -681"
   },
   {
     "mapId": "m1007",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bow Spleef",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1007.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bowspleef.zip",
     "mapSpawnPos": "1755 10 -494"
   },
   {
@@ -115,7 +115,7 @@
     "mapId": "m1017",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Hide & Seek",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1017.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/hidenseek2.zip",
     "mapSpawnPos": "683 44 -632"
   },
   {
