@@ -301,17 +301,24 @@
     "mapSpawnPos": "1813 57 -609"
   },
   {
-    "mapId": "m1036_2",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
-    "mapName": "Ender vs Slender 2",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1036_2.zip",
+    "mapId": "m1100",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/bmg.png",
+    "mapName": "Blockman Go Rooms Maps:",
+    "mapZipUrl": "nil",
     "mapSpawnPos": "1813 57 -609"
   },
   {
-    "mapId": "m1046",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
-    "mapName": "Bed Wars Hall",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1046.zip",
-    "mapSpawnPos": "1701 94 -573"
+    "mapId": "m1101",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/airship.png",
+    "mapName": "Airship",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bgroommaps/airship.zip",
+    "mapSpawnPos": "-754 108 -904"
+  },
+  {
+    "mapId": "m1102",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/forestparkour.png",
+    "mapName": "Forest Parkour",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bgroommaps/forestparkour.zip",
+    "mapSpawnPos": "0 100 0"
   }
 ]
