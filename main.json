@@ -44,9 +44,9 @@
   {
     "mapId": "m1008_4",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
-    "mapName": "Bed Wars: Classic 4",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1008_4.zip",
-    "mapSpawnPos": "1666 73 -498"
+    "mapName": "Bed Wars: 10v10 mode.",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bedwars10v10.zip",
+    "mapSpawnPos": "474 81 4588"
   },
   {
     "mapId": "m1009",
