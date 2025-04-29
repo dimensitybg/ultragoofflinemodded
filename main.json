@@ -316,9 +316,30 @@
   },
   {
     "mapId": "m1102",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/hilltop.png",
+    "mapName": "Hilltop",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bgroommaps/hilltop.zip",
+    "mapSpawnPos": "172 212 341"
+  },
+  {
+    "mapId": "m1103",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/forestparkour.png",
     "mapName": "Forest Parkour",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bgroommaps/forestparkour.zip",
     "mapSpawnPos": "0 100 0"
+  },
+  {
+    "mapId": "m1104",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/mansion.png",
+    "mapName": "Mansion",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bgroommaps/mansion.zip",
+    "mapSpawnPos": "-154 73 211"
+  },
+  {
+    "mapId": "m1105",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/flatworld.png",
+    "mapName": "Flat World",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bgroommaps/flatworld.zip",
+    "mapSpawnPos": "488 4 83"
   }
 ]
