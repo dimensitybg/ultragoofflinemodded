@@ -23,22 +23,22 @@
   {
     "mapId": "m1008_1",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
-    "mapName": "Bed Wars: Classic 1",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bedwars1.zip",
+    "mapName": "Bed Wars: Sandstone Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "1701 94 -573"
   },
   {
     "mapId": "m1008_2",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars: Classic 2",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1008_2.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "1682 83 -474"
   },
   {
     "mapId": "m1008_3",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars: Classic 3",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1008_3.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "1666 85 -485"
   },
   {
