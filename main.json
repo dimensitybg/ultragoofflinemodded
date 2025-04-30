@@ -57,6 +57,51 @@
     "mapSpawnPos": "2222 81 123"
   },
   {
+    "mapId": "m1008_6",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/christmas.png",
+    "mapName": "Bed Wars: Christmas Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "2874 86 85"
+  },
+  {
+    "mapId": "m1008_7",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/futuristic.png",
+    "mapName": "Bed Wars: Futuristic Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "3411 89 111"
+  },
+
+  {
+    "mapId": "m1008_8",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars Solo Mode: Knight Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "478 63 496"
+  },
+
+  {
+    "mapId": "m1008_9",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars Solo Mode: Hot Air Balloons Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "100 67 494"
+  },
+
+  {
+    "mapId": "m1008_10",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars Solo Mode: Medieval Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "856 100 473"
+  },
+  {
+    "mapId": "m1008_11",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars Solo Mode: Christmas Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "1294 87 478"
+  },
+  {
     "mapId": "m1009",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Murder Mystery",
