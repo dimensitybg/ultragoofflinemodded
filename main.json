@@ -71,7 +71,49 @@
     "mapSpawnPos": "5089 81 83"
   },
   {
+    "mapId": "m1008_11",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars: 4v4",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "5497 81 97"
+  },
+  {
+    "mapId": "m1008_12",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars: 4v4",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "5884 94 86"
+  },
+  {
+    "mapId": "m1008_13",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars: City Map 2",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "6327 80 103"
+  },
+  {
+    "mapId": "m1008_14",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars: Candy Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "6802 87 102"
+  },
+  {
     "mapId": "m1008_15",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars: Road Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "7269 86 57"
+  },
+  {
+    "mapId": "m1008_16",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars Solo Mode: Candy Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "1703 83 503"
+  },
+  {
+    "mapId": "m1008_17",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars Solo Mode: Knight Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
@@ -79,7 +121,7 @@
   },
 
   {
-    "mapId": "m1008_16",
+    "mapId": "m1008_18",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars Solo Mode: Hot Air Balloons Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
@@ -87,18 +129,32 @@
   },
 
   {
-    "mapId": "m1008_17",
+    "mapId": "m1008_19",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars Solo Mode: Medieval Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "856 100 473"
   },
   {
-    "mapId": "m1008_18",
+    "mapId": "m1008_20",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars Solo Mode: Christmas Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "1294 87 478"
+  },
+  {
+    "mapId": "m1008_21",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars: Current Lobby",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "827 80 852"
+  },
+  {
+    "mapId": "m1008_22",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars: Last Lobby",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "97 96 59"
   },
   {
     "mapId": "m1009",
