@@ -72,15 +72,15 @@
   },
   {
     "mapId": "m1008_11",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/4v4medieval.png",
     "mapName": "Bed Wars: 4v4",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "5497 81 97"
   },
   {
     "mapId": "m1008_12",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
-    "mapName": "Bed Wars: 4v4",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/4v4medieval2.png",
+    "mapName": "Bed Wars: Medieval Map 2",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "5884 94 86"
   },
@@ -154,7 +154,7 @@
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars: Last Lobby",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
-    "mapSpawnPos": "97 96 59"
+    "mapSpawnPos": "85 26 67"
   },
   {
     "mapId": "m1009",
