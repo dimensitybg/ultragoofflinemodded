@@ -70,9 +70,29 @@
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "3411 89 111"
   },
-
   {
     "mapId": "m1008_8",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/windmill.png",
+    "mapName": "Bed Wars: Windmill Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "3972 86 72"
+  },
+  {
+    "mapId": "m1008_9",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapName": "Bed Wars: Christmas Map 2",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "4607 92 107"
+  },
+  {
+    "mapId": "m1008_10",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/carousel.png",
+    "mapName": "Bed Wars: Carousel Map",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
+    "mapSpawnPos": "5089 81 83"
+  },
+  {
+    "mapId": "m1008_15",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars Solo Mode: Knight Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
@@ -80,7 +100,7 @@
   },
 
   {
-    "mapId": "m1008_9",
+    "mapId": "m1008_16",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars Solo Mode: Hot Air Balloons Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
@@ -88,14 +108,14 @@
   },
 
   {
-    "mapId": "m1008_10",
+    "mapId": "m1008_17",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars Solo Mode: Medieval Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "856 100 473"
   },
   {
-    "mapId": "m1008_11",
+    "mapId": "m1008_18",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Bed Wars Solo Mode: Christmas Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
