@@ -86,7 +86,7 @@
   },
   {
     "mapId": "m1008_13",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/4v4citymap2.png",
     "mapName": "Bed Wars: City Map 2",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "6327 80 103"
@@ -100,7 +100,7 @@
   },
   {
     "mapId": "m1008_15",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/4v4roadmap.png",
     "mapName": "Bed Wars: Road Map",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/wholebedwars.zip",
     "mapSpawnPos": "7269 86 57"
@@ -160,56 +160,56 @@
     "mapId": "m1009",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Murder Mystery",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1009.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/murdermystery.zip",
     "mapSpawnPos": "1710 71 -460"
   },
   {
     "mapId": "m1010",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "TNT Run",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1010.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/tntrun.zip",
     "mapSpawnPos": "1778 53 -611"
   },
   {
     "mapId": "m1011_1",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Snowball Battle 1",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1011_1.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
     "mapSpawnPos": "1724 27 -568"
   },
   {
     "mapId": "m1011_2",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Snowball Battle 2",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1011_2.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
     "mapSpawnPos": "1675 34 -573"
   },
   {
     "mapId": "m1011_3",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Snowball Battle 3",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1011_3.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
     "mapSpawnPos": "1726 33 -570"
   },
   {
     "mapId": "m1011_4",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Snowball Battle 4",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1011_4.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
     "mapSpawnPos": "1850 30 -612"
   },
   {
     "mapId": "m1014",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Jail Break",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1014.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/jailbreak.zip",
     "mapSpawnPos": "148 116 319"
   },
   {
     "mapId": "m1015",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Treasure Hunter",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1015.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/treasurehunter.zip",
     "mapSpawnPos": "543 228 -143"
   },
   {
@@ -223,7 +223,7 @@
     "mapId": "m1017",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/wires.png",
     "mapName": "Hide & Seek",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/hidenseek2.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/hidenseek.zip",
     "mapSpawnPos": "187 94 414"
   },
   {
