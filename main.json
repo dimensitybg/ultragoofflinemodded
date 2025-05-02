@@ -157,6 +157,83 @@
     "mapSpawnPos": "85 26 67"
   },
   {
+    "mapId": "m1041_1",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/birdsimulator.png",
+    "mapName": "Bird Simulator",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/birdsimulator.zip",
+    "mapSpawnPos": "-602 11 -225"
+  },
+  {
+    "mapId": "m1032",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/blockmanstrike.png",
+    "mapName": "Blockman Strike Lobby",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/blockmanstrike.zip",
+    "mapSpawnPos": "78 155 120"
+  },
+  {
+    "mapId": "m1033",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/blockmanstrike.png",
+    "mapName": "Blockman Strike",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/counterstrike.zip",
+    "mapSpawnPos": "1716 40 -573"
+  },
+  {
+    "mapId": "m1016",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/borderline.png",
+    "mapName": "Borderline",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/borderline.zip",
+    "mapSpawnPos": "135  100 -320"
+  },
+  {
+    "mapId": "m1007_1",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/bowspleef.png",
+    "mapName": "Bow Spleef",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bowspleef.zip",
+    "mapSpawnPos": "1744 28 -607"
+  },
+  {
+    "mapId": "m1023",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/buildbattle.png",
+    "mapName": "Build Battle",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/buildbattle.zip",
+    "mapSpawnPos": "135 100 -320"
+  },
+  {
+    "mapId": "m1042",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/buildnshoot.png",
+    "mapName": "Build & Shoot Lobby",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/buildnshootlobby.zip",
+    "mapSpawnPos": "1790 60 -616"
+  },
+  {
+    "mapId": "m1043_1",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/buildnshoot.png",
+    "mapName": "Build & Shoot 1",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/buildnshoot1.zip",
+    "mapSpawnPos": "1753 46 -563"
+  },
+  {
+    "mapId": "m1043_2",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/buildnshoot.png",
+    "mapName": "Build & Shoot 2",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/buildnshoot2.zip",
+    "mapSpawnPos": "1716 60 -520"
+  },
+  {
+    "mapId": "m1043_3",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/buildnshoot.png",
+    "mapName": "Build & Shoot 3",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/buildnshoot3.zip",
+    "mapSpawnPos": "1715 37 -511"
+  },
+  {
+    "mapId": "m1043_4",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/buildnshoot.png",
+    "mapName": "Build & Shoot 4",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/buildnshoot4.zip",
+    "mapSpawnPos": "1715 50 -545"
+  },
+  {
     "mapId": "m1009",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/murdermystery.png",
     "mapName": "Murder Mystery",
@@ -325,13 +402,6 @@
     "mapSpawnPos": "270 55 3246"
   },
   {
-    "mapId": "m1023",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/buildbattle.png",
-    "mapName": "Build Battle",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/buildbattle.zip",
-    "mapSpawnPos": "135  100 -320"
-  },
-  {
     "mapId": "m1024",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/gemknight.png",
     "mapName": "Gem Knight",
@@ -414,20 +484,6 @@
     "mapName": "Ranchers",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/ranchers.zip",
     "mapSpawnPos": "1127 5 -621"
-  },
-  {
-    "mapId": "m1032",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/blockmanstrike.png",
-    "mapName": "Blockman Strike Lobby",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/blockmanstrike.zip",
-    "mapSpawnPos": "78 155 120"
-  },
-  {
-    "mapId": "m1033",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/blockmanstrike.png",
-    "mapName": "Blockman Strike",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/counterstrike.zip",
-    "mapSpawnPos": "1716 40 -573"
   },
   {
     "mapId": "m1036_1",
