@@ -158,9 +158,9 @@
   },
   {
     "mapId": "m1041_1",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/birdsimulator.png",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/birdsimulator.png",
     "mapName": "Bird Simulator",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/birdsimulator.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/birdsimulator.zip",
     "mapSpawnPos": "-602 11 -225"
   },
   {
@@ -186,9 +186,9 @@
   },
   {
     "mapId": "m1007_1",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/bowspleef.png",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/bowspleef.png",
     "mapName": "Bow Spleef",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/bowspleef.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/bowspleef.zip",
     "mapSpawnPos": "1744 28 -607"
   },
   {
