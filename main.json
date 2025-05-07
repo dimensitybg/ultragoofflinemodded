@@ -1,5 +1,19 @@
 [
   {
+    "mapId": "m1019",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/aliensattack.png",
+    "mapName": "Aliens Attack",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/aliensattack.zip",
+    "mapSpawnPos": "1926 46 -438"
+  },
+  {
+    "mapId": "m1016",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/battlefield.png",
+    "mapName": "Battlefield",
+    "mapZipUrl": "https://static.resquared.studio/maps/m1016.zip",
+    "mapSpawnPos": "1786 47 -418"
+  },
+  {
     "mapId": "m1008_1",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/sandstone.png",
     "mapName": "Bed Wars: Sandstone Map",
@@ -164,6 +178,13 @@
     "mapSpawnPos": "-602 11 -225"
   },
   {
+    "mapId": "m1008_1",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/blockfort.png",
+    "mapName": "Blockfort",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/blockfort.zip",
+    "mapSpawnPos": "292 71 282"
+  },
+  {
     "mapId": "m1032",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/blockmanstrike.png",
     "mapName": "Blockman Strike Lobby",
@@ -234,74 +255,25 @@
     "mapSpawnPos": "1715 50 -545"
   },
   {
-    "mapId": "m1009",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/murdermystery.png",
-    "mapName": "Murder Mystery",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/murdermystery.zip",
-    "mapSpawnPos": "1710 71 -460"
+    "mapId": "m1022",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/capturetheflag.png",
+    "mapName": "Capture The Flag",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/capturetheflag.zip",
+    "mapSpawnPos": "270 55 3246"
   },
   {
-    "mapId": "m1010",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/tntrun.png",
-    "mapName": "TNT Run",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/tntrun.zip",
-    "mapSpawnPos": "1778 53 -611"
+    "mapId": "m1071",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/clanwars.png",
+    "mapName": "Clan Wars Lobby",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/clanwars.zip",
+    "mapSpawnPos": "0 50 0"
   },
   {
-    "mapId": "m1011_1",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/snowballbattle.png",
-    "mapName": "Snowball Battle 1",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
-    "mapSpawnPos": "1724 27 -568"
-  },
-  {
-    "mapId": "m1011_2",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/snowballbattle.png",
-    "mapName": "Snowball Battle 2",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
-    "mapSpawnPos": "1675 34 -573"
-  },
-  {
-    "mapId": "m1011_3",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/snowballbattle.png",
-    "mapName": "Snowball Battle 3",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
-    "mapSpawnPos": "1726 33 -570"
-  },
-  {
-    "mapId": "m1011_4",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/snowballbattle.png",
-    "mapName": "Snowball Battle 4",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
-    "mapSpawnPos": "1850 30 -612"
-  },
-  {
-    "mapId": "m1014",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/jailbreak.png",
-    "mapName": "Jail Break",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/jailbreak.zip",
-    "mapSpawnPos": "148 116 319"
-  },
-  {
-    "mapId": "m1015",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/treasurehunter.png",
-    "mapName": "Treasure Hunter",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/treasurehunter.zip",
-    "mapSpawnPos": "543 228 -143"
-  },
-  {
-    "mapId": "m1016",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/battlefield.png",
-    "mapName": "Battlefield",
-    "mapZipUrl": "https://static.resquared.studio/maps/m1016.zip",
-    "mapSpawnPos": "1786 47 -418"
-  },
-  {
-    "mapId": "m1017",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/hidenseek.png",
-    "mapName": "Hide & Seek",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/hidenseek.zip",
-    "mapSpawnPos": "187 94 414"
+    "mapId": "m1072",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/clanwars.png",
+    "mapName": "Clan Wars",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/clanwarsbattlefield.zip",
+    "mapSpawnPos": "0 50 0"
   },
   {
     "mapId": "m1018_1",
@@ -350,14 +322,133 @@
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/eggwars.png",
     "mapName": "Egg Wars 7",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/eggwars7.zip",
-    "mapSpawnPos": "404 51 284"
+    "mapSpawnPos": "0 50 0"
   },
   {
     "mapId": "m1018_8",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/eggwars.png",
     "mapName": "Egg Wars 8",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/eggwars8.zip",
-    "mapSpawnPos": "404 51 284"
+    "mapSpawnPos": "0 50 0"
+  },
+  {
+    "mapId": "m1036_1",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/endervsslender.png",
+    "mapName": "Ender vs Slender 1",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/endervsslender1.zip",
+    "mapSpawnPos": "1813 57 -609"
+  },
+  {
+    "mapId": "m1036_2",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/endervsslender.png",
+    "mapName": "Ender vs Slender 2",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/endervsslender2.zip",
+    "mapSpawnPos": "1813 57 -609"
+  },
+  {
+    "mapId": "m1024",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/gemknight.png",
+    "mapName": "Gem Knight",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/gemknight.zip",
+    "mapSpawnPos": "199 60 45"
+  },
+  {
+    "mapId": "m1025",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/herotycoon2.png",
+    "mapName": "Hero Tycoon 2",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/herotycoonII.zip",
+    "mapSpawnPos": "101 27 94"
+  },
+  {
+    "mapId": "m1017",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/hidenseek.png",
+    "mapName": "Hide & Seek: Discarded Lobby",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/hidenseek.zip",
+    "mapSpawnPos": "187 94 414"
+  },
+  {
+    "mapId": "m1037",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/hidenseek2.png",
+    "mapName": "Hide & Seek 2: Lobby",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/hidenseek2.zip",
+    "mapSpawnPos": "187 94 414"
+  },
+  {
+    "mapId": "m1014",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/jailbreak.png",
+    "mapName": "Jail Break",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/jailbreak.zip",
+    "mapSpawnPos": "148 116 319"
+  },
+  {
+    "mapId": "m1054_1",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/luckyblockskywars.png",
+    "mapName": "Lucky Block Skywars 1",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/luckyblockskywars1.zip",
+    "mapSpawnPos": "-8 125 6"
+  },
+  {
+    "mapId": "m1054_2",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/luckyblockskywars.png",
+    "mapName": "Lucky Block Skywars 2",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/luckyblockskywars2.zip",
+    "mapSpawnPos": "-8 125 6"
+  },
+  {
+    "mapId": "m1054",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/luckyblockskywars.png",
+    "mapName": "Lucky Block Skywars: Lobby",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/luckyblockskywarslobby.zip",
+    "mapSpawnPos": "32 5 22"
+  },
+  {
+    "mapId": "m1009",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/murdermystery.png",
+    "mapName": "Murder Mystery",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/murdermystery.zip",
+    "mapSpawnPos": "1710 71 -460"
+  },
+  {
+    "mapId": "m1010",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/tntrun.png",
+    "mapName": "TNT Run",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/tntrun.zip",
+    "mapSpawnPos": "1778 53 -611"
+  },
+  {
+    "mapId": "m1011_1",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/snowballbattle.png",
+    "mapName": "Snowball Battle 1",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
+    "mapSpawnPos": "1724 27 -568"
+  },
+  {
+    "mapId": "m1011_2",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/snowballbattle.png",
+    "mapName": "Snowball Battle 2",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
+    "mapSpawnPos": "1675 34 -573"
+  },
+  {
+    "mapId": "m1011_3",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/snowballbattle.png",
+    "mapName": "Snowball Battle 3",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
+    "mapSpawnPos": "1726 33 -570"
+  },
+  {
+    "mapId": "m1011_4",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/snowballbattle.png",
+    "mapName": "Snowball Battle 4",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowballbattle.zip",
+    "mapSpawnPos": "1850 30 -612"
+  },
+  {
+    "mapId": "m1015",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/treasurehunter.png",
+    "mapName": "Treasure Hunter",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/treasurehunter.zip",
+    "mapSpawnPos": "543 228 -143"
   },
   {
     "mapId": "m1020",
@@ -400,20 +491,6 @@
     "mapName": "Capture The Flag",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/capturetheflag.zip",
     "mapSpawnPos": "270 55 3246"
-  },
-  {
-    "mapId": "m1024",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/gemknight.png",
-    "mapName": "Gem Knight",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/gemknight.zip",
-    "mapSpawnPos": "199 60 45"
-  },
-  {
-    "mapId": "m1025",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/herotycoon2.png",
-    "mapName": "Hero Tycoon",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/herotycoonII.zip",
-    "mapSpawnPos": "101 27 94"
   },
   {
     "mapId": "m1026_1",
@@ -484,20 +561,6 @@
     "mapName": "Ranchers",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/ranchers.zip",
     "mapSpawnPos": "1127 5 -621"
-  },
-  {
-    "mapId": "m1036_1",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/endervsslender.png",
-    "mapName": "Ender vs Slender 1",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/endervsslender1.zip",
-    "mapSpawnPos": "1813 57 -609"
-  },
-  {
-    "mapId": "m1036_2",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/endervsslender.png",
-    "mapName": "Ender vs Slender 2",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/endervsslender2.zip",
-    "mapSpawnPos": "1813 57 -609"
   },
   {
     "mapId": "m1100",
