@@ -3,7 +3,7 @@
     "mapId": "m1019",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/aliensattack.png",
     "mapName": "Aliens Attack",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/aliensattack.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/aliensattack.zip",
     "mapSpawnPos": "1926 46 -438"
   },
   {
@@ -258,21 +258,21 @@
     "mapId": "m1022",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/capturetheflag.png",
     "mapName": "Capture The Flag",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/capturetheflag.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/capturetheflag.zip",
     "mapSpawnPos": "270 55 3246"
   },
   {
     "mapId": "m1071",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/clanwars.png",
     "mapName": "Clan Wars Lobby",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/clanwars.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/clanwars.zip",
     "mapSpawnPos": "0 50 0"
   },
   {
     "mapId": "m1072",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/clanwars.png",
     "mapName": "Clan Wars",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/clanwarsbattlefield.zip",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/clanwarsbattlefield.zip",
     "mapSpawnPos": "0 50 0"
   },
   {
