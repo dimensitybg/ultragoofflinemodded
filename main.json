@@ -472,6 +472,20 @@
     "mapSpawnPos": "-723 34 -229"
   },
   {
+    "mapId": "m1049",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyblock.png",
+    "mapName": "Skyblock Mining Area",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/nil",
+    "mapSpawnPos": "1127 5 -621"
+  },
+  {
+    "mapId": "m1048",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyblock.png",
+    "mapName": "Skyblock",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/nil",
+    "mapSpawnPos": "1127 5 -621"
+  },
+  {
     "mapId": "m1010",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/tntrun.png",
     "mapName": "TNT Run",
