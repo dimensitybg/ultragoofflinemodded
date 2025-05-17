@@ -474,15 +474,50 @@
   {
     "mapId": "m1049",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyblock.png",
-    "mapName": "Skyblock Mining Area",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/nil",
+    "mapName": "Skyblock Desert Escape",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/sbdesertescape.zip",
+    "mapSpawnPos": "0 50 0"
+  },
+  {
+    "mapId": "m1050",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyblock.png",
+    "mapName": "Skyblock Event Zone",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/sbeventzone.zip",
     "mapSpawnPos": "1127 5 -621"
+  },
+  {
+    "mapId": "m1049",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyblock.png",
+    "mapName": "Skyblock Mining Area",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/sbminingarea.zip",
+    "mapSpawnPos": "1127 5 -621"
+  },
+  {
+    "mapId": "m1067",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyblock.png",
+    "mapName": "Skyblock Prison",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/sbprison.zip",
+    "mapSpawnPos": "0 50 0"
   },
   {
     "mapId": "m1048",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyblock.png",
     "mapName": "Skyblock",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/nil",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skyblock.zip",
+    "mapSpawnPos": "1127 5 -621"
+  },
+  {
+    "mapId": "m9999_1",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyblock.png",
+    "mapName": "Skyblock: Secret Test",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/unknownskyblock1.zip",
+    "mapSpawnPos": "1127 5 -621"
+  },
+  {
+    "mapId": "m9999_2",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyblock.png",
+    "mapName": "Skyblock: Secret Test 2",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/unknownskyblock2.zip",
     "mapSpawnPos": "1127 5 -621"
   },
   {
