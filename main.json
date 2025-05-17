@@ -402,11 +402,74 @@
     "mapSpawnPos": "32 5 22"
   },
   {
+    "mapId": "m1029_1",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/megawalls.png",
+    "mapName": "Mega Walls 1",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/megawalls1.zip",
+    "mapSpawnPos": "32 83 70"
+  },
+  {
+    "mapId": "m1029_2",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/megawalls.png",
+    "mapName": "Mega Walls 2",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/megawalls2.zip",
+    "mapSpawnPos": "4 51 10"
+  },
+  {
+    "mapId": "m1020",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/minitown.png",
+    "mapName": "Mini Town",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/minitown.zip",
+    "mapSpawnPos": "379 59 240"
+  },
+  {
     "mapId": "m1009",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/murdermystery.png",
     "mapName": "Murder Mystery",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/murdermystery.zip",
     "mapSpawnPos": "1710 71 -460"
+  },
+  {
+    "mapId": "m1021_1",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/rainbowparkour.png",
+    "mapName": "Rainbow Parkour 1",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/rainbowparkour1.zip",
+    "mapSpawnPos": "327 79 -41"
+  },
+  {
+    "mapId": "m1021_2",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/rainbowparkour.png",
+    "mapName": "Rainbow Parkour 2",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/rainbowparkour2.zip",
+    "mapSpawnPos": "4 92 -6"
+  },
+  {
+    "mapId": "m1021_3",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/rainbowparkour.png",
+    "mapName": "Rainbow Parkour 3",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/rainbowparkour3.zip",
+    "mapSpawnPos": "1527 8 -619"
+  },
+  {
+    "mapId": "m1021_4",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/rainbowparkour.png",
+    "mapName": "Rainbow Parkour 4",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/rainbowparkour4.zip",
+    "mapSpawnPos": "1821 237 -551"
+  },
+  {
+    "mapId": "m1031",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/ranchers.png",
+    "mapName": "Ranchers",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/ranchers.zip",
+    "mapSpawnPos": "1127 5 -621"
+  },
+  {
+    "mapId": "m1047",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/realmcity.png",
+    "mapName": "Realm City",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/realmcity.zip",
+    "mapSpawnPos": "-723 34 -229"
   },
   {
     "mapId": "m1010",
@@ -451,48 +514,6 @@
     "mapSpawnPos": "543 228 -143"
   },
   {
-    "mapId": "m1020",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/minitown.png",
-    "mapName": "Mini Town",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/minitown.zip",
-    "mapSpawnPos": "379 59 240"
-  },
-  {
-    "mapId": "m1021_1",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/rainbowparkour.png",
-    "mapName": "Rainbow Parkour 1",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/rainbowparkour1.zip",
-    "mapSpawnPos": "327 79 -41"
-  },
-  {
-    "mapId": "m1021_2",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/rainbowparkour.png",
-    "mapName": "Rainbow Parkour 2",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/rainbowparkour2.zip",
-    "mapSpawnPos": "4 92 -6"
-  },
-  {
-    "mapId": "m1021_3",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/rainbowparkour.png",
-    "mapName": "Rainbow Parkour 3",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/rainbowparkour3.zip",
-    "mapSpawnPos": "1527 8 -619"
-  },
-  {
-    "mapId": "m1021_4",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/rainbowparkour.png",
-    "mapName": "Rainbow Parkour 4",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/rainbowparkour4.zip",
-    "mapSpawnPos": "1821 237 -551"
-  },
-  {
-    "mapId": "m1022",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/capturetheflag.png",
-    "mapName": "Capture The Flag",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/capturetheflag.zip",
-    "mapSpawnPos": "270 55 3246"
-  },
-  {
     "mapId": "m1026_1",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/tnttag.png",
     "mapName": "TNT Tag 1",
@@ -521,20 +542,6 @@
     "mapSpawnPos": "403 8 -709"
   },
   {
-    "mapId": "m1029_1",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/megawalls.png",
-    "mapName": "Mega Walls 1",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/megawalls1.zip",
-    "mapSpawnPos": "32 83 70"
-  },
-  {
-    "mapId": "m1029_2",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/megawalls.png",
-    "mapName": "Mega Walls 2",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/megawalls2.zip",
-    "mapSpawnPos": "4 51 10"
-  },
-  {
     "mapId": "m1030_1",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/snowmandefender.png",
     "mapName": "Snowman Defender 1",
@@ -554,13 +561,6 @@
     "mapName": "Snowman Defender 3",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/snowmandefender3.zip",
     "mapSpawnPos": "1724 25 -577"
-  },
-  {
-    "mapId": "m1031",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/ranchers.png",
-    "mapName": "Ranchers",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/ranchers.zip",
-    "mapSpawnPos": "1127 5 -621"
   },
   {
     "mapId": "m1100",
