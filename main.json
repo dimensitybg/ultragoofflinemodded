@@ -504,7 +504,7 @@
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyblock.png",
     "mapName": "Skyblock",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skyblock.zip",
-    "mapSpawnPos": "1127 5 -621"
+    "mapSpawnPos": "1038 50 536"
   },
   {
     "mapId": "m9999_1",
@@ -519,6 +519,76 @@
     "mapName": "Skyblock: Secret Test 2",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/unknownskyblock2.zip",
     "mapSpawnPos": "1127 5 -621"
+  },
+  {
+    "mapId": "m1027",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyroyale.png",
+    "mapName": "Sky Royale",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skyroyale.zip",
+    "mapSpawnPos": "137 52 455"
+  },
+  {
+    "mapId": "m1002",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skywars.png",
+    "mapName": "Sky Wars 1",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skywars1.zip",
+    "mapSpawnPos": "1881 81 -681"
+  },
+  {
+    "mapId": "m1002_2",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skywars.png",
+    "mapName": "Sky Wars 2",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skywars2.zip",
+    "mapSpawnPos": "1760 65 -632"
+  },
+  {
+    "mapId": "m1002_3",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skywars.png",
+    "mapName": "Sky Wars 3",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skywars3.zip",
+    "mapSpawnPos": "1814 46 -704"
+  },
+  {
+    "mapId": "m1002_4",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skywars.png",
+    "mapName": "Sky Wars 4",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skywars4.zip",
+    "mapSpawnPos": "1834 92 -707"
+  },
+  {
+    "mapId": "m1002_5",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skywars.png",
+    "mapName": "Sky Wars 5",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skywars5.zip",
+    "mapSpawnPos": "519 18 69"
+  },
+  {
+    "mapId": "m1002_6",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skywars.png",
+    "mapName": "Sky Wars 6",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skywars6.zip",
+    "mapSpawnPos": "1275 39 48"
+  },
+  {
+    "mapId": "m1002_7",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skywars.png",
+    "mapName": "Sky Wars 7",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skywars7.zip",
+    "mapSpawnPos": "1623 65 -568"
+  },
+  {
+    "mapId": "m1002_8",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skywars.png",
+    "mapName": "Sky Wars 8",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skywars8.zip",
+    "mapSpawnPos": "1686 106 -547"
+  },
+  {
+    "mapId": "m1002_9",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skywars.png",
+    "mapName": "Sky Wars 9",
+    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skywars9.zip",
+    "mapSpawnPos": "1739 65 -612"
   },
   {
     "mapId": "m1010",
@@ -575,13 +645,6 @@
     "mapName": "TNT Tag 2",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/tnttag2.zip",
     "mapSpawnPos": "2295 7 65"
-  },
-  {
-    "mapId": "m1027",
-    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/skyroyale.png",
-    "mapName": "Sky Royale",
-    "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/skyroyale.zip",
-    "mapSpawnPos": "65 46 445"
   },
   {
     "mapId": "m1028",
