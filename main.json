@@ -392,12 +392,12 @@
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/luckyblockskywars.png",
     "mapName": "Lucky Block Skywars 2",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/luckyblockskywars2.zip",
-    "mapSpawnPos": "-8 125 6"
+    "mapSpawnPos": "-12 67 10"
   },
   {
     "mapId": "m1054_3",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/luckyblockskywars.png",
-    "mapName": "Lucky Block Skywars 3",
+    "mapName": "Lucky Block Skywars 3 (new)",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/luckyblockskywars3.zip",
     "mapSpawnPos": "-753 62 -902"
   },
