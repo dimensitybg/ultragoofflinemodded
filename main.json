@@ -1,6 +1,13 @@
 [
   {
     "mapId": "m1019",
+    "mapIcon": "",
+    "mapName": "yt: dimensitybg",
+    "mapZipUrl": "nil",
+    "mapSpawnPos": "69 69 69"
+  },
+  {
+    "mapId": "m1019",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/aliensattack.png",
     "mapName": "Aliens Attack",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/aliensattack1.zip",
