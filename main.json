@@ -329,14 +329,14 @@
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/eggwars.png",
     "mapName": "Egg Wars 7",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/eggwars7.zip",
-    "mapSpawnPos": "286 52 166"
+    "mapSpawnPos": "286 52 402"
   },
   {
     "mapId": "m1018_8",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/eggwars.png",
     "mapName": "Egg Wars 8",
     "mapZipUrl": "https://github.com/dimensitybg/ultragoofflinemodded/raw/refs/heads/main/maps/eggwars8.zip",
-    "mapSpawnPos": "286 52 402"
+    "mapSpawnPos": "286 52 166"
   },
   {
     "mapId": "m1036_1",
