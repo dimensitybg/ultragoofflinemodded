@@ -689,6 +689,13 @@
     "mapSpawnPos": "1724 25 -577"
   },
   {
+    "mapId": "m1013",
+    "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/snowmandefender.png",
+    "mapName": "Zombie Infecting",
+    "mapZipUrl": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/snowmandefender.png",
+    "mapSpawnPos": "0 73 0"
+  },
+  {
     "mapId": "m1100",
     "mapIcon": "https://raw.githubusercontent.com/dimensitybg/ultragoofflinemodded/refs/heads/main/icons/bmg.png",
     "mapName": "Blockman Go Rooms Maps:",
